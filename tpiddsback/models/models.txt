@@ -1,0 +1,3 @@
+en la carpeta .bd/ vamos a poner la base de datos sqlite3
+
+aqui ira un modelo por cada tabla

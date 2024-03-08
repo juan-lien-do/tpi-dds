@@ -1,0 +1,2 @@
+usaremos aa sqlite, y sequelize
+desde aca podremos crear la bd si no existe

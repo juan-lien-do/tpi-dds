@@ -1,0 +1,5 @@
+Aca va a ir una base de datos sqlite3.
+Este archivo tiene dos funciones:
+    Recordar que la base de datos esta comentada y por eso no se va a commitear.
+    Hacer que Git no borre esta carpeta al no encontrar nada adentro.
+        A veces pasa que la BD no se puede crear porque no existe la carpeta

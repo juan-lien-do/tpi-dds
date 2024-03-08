@@ -1,0 +1,1 @@
+aca vamos a usar el express router, los modelos y el sequelize
